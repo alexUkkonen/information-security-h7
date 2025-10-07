@@ -55,6 +55,8 @@ lastly you type ```$ glogged solved```
 
 <img width="2068" height="1249" alt="image" src="https://github.com/user-attachments/assets/d6ef6764-7000-4b30-9686-a02f8e030b76" />
 
+we can see the solution is "disobey"
+
 ## Sources
 * https://terokarvinen.com/information-security/
 * https://learning.oreilly.com/library/view/applied-cryptography-protocols/
